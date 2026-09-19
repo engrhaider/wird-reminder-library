@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "schema_version": 1,
+    "generated_at": "2026-09-03T04:55:05+00:00",
+    "content_hash": "d1dfcb892d003515ef643c5b76ca3f0fb3ea14d750e821688718313043179a59",
+    "database": {
+        "file": "library-v1.db",
+        "url": "https://library.wirdreminder.haiderali.me/library-v1.db",
+        "bytes": 151552,
+        "md5": "746a928715d7769610eac2ac9b6b06b8",
+        "sha256": "69b303ed3534e08bd789157db245e7d7d322b9f46a2621f708a0be563dc0abfc"
+    },
+    "counts": {
+        "wirds": 106,
+        "categories": 7,
+        "images": 1
+    }
+}
