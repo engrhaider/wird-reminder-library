@@ -1,14 +1,14 @@
 {
-    "version": 2,
+    "version": 3,
     "schema_version": 1,
-    "generated_at": "2026-09-19T06:27:48+00:00",
+    "generated_at": "2026-09-19T09:09:05+00:00",
     "content_hash": "c16d8d3ce64ecf95cb8cc1ec1172e99daa80436405449163e945e0746924c3cf",
     "database": {
-        "file": "library-v2.db",
-        "url": "https://engrhaider.github.io/wird-reminder-library/library-v2.db",
+        "file": "library-v3.db",
+        "url": "https://engrhaider.github.io/wird-reminder-library/library-v3.db",
         "bytes": 151552,
-        "md5": "5548e57ed5fb1e2cf1f7c4c8329c2f11",
-        "sha256": "e98317f37f034cdd4e34fc2cc5edda91d329c41c620a35bff4ca18f0375e1063"
+        "md5": "df339aead954fa6fd57d90163ebb20be",
+        "sha256": "d446bab3c0daea7d6323339cb20d2ec569664ea02f3a7c8b36bbbdefd6d0f108"
     },
     "counts": {
         "wirds": 106,
